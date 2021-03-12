@@ -21,7 +21,7 @@ def main():
     elif choice=='Eda':
         run_eda_app()
     elif choice=='Ml':
-        run_ml_app
+        run_ml_app()
 
         
     
